@@ -18,7 +18,6 @@ class TableViewController: UITableViewController {
         self.contacts.append("Abzalito")
         self.contacts.append("Abzalbay")
         self.contacts.append("Abzaltay")
-        
         // Uncomment the following line to preserve selection between presentations
         // self.clearsSelectionOnViewWillAppear = false
 
